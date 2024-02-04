@@ -5,5 +5,11 @@ In the realm of interior design, the creative process heavily relies on imaginat
 
 SOLUTION:
 The solution is to build an Augmented Reality application designed to unleash the creativity making it easier for common man to build their dream spaces.
+TECHNOLOGIES USED:
+Unity Game Engine, AR foundation & AR Core libraries, Vuforia Engine
 
-![b9d90a80-476a-40bb-9576-9f19d2f845c7](https://github.com/AashiGarg7/AR-Interior-Design-Project/assets/100459397/aa73e890-e395-4884-bdd5-8a598ff95a25)
+![da95018a-91c0-4e5b-a637-1869e05d0e3d](https://github.com/AashiGarg7/AR-Interior-Design-Project/assets/100459397/886c77ff-7c2c-437b-8cc6-fa4d29e6385d)
+
+I have added some pics and videos of our application too.
+You can get the apk file as well.
+Thank you so much!

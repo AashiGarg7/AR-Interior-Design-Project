@@ -13,6 +13,8 @@ Unity Game Engine, AR foundation & AR Core libraries, Vuforia Engine
 
 ![da95018a-91c0-4e5b-a637-1869e05d0e3d](https://github.com/AashiGarg7/AR-Interior-Design-Project/assets/100459397/886c77ff-7c2c-437b-8cc6-fa4d29e6385d)
 
+![IMG-20240121-WA0008](https://github.com/AashiGarg7/AR-Interior-Design-Project/assets/100459397/33a5d189-5f2d-4d1b-a6de-ba0bdda231ee)
+
 
 I have added some pics and videos of our application too.
 You can get the apk file as well.
